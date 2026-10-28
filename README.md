@@ -1,84 +1,129 @@
+<!-- GitHub Profile README | Aman Kushwaha | Black & White Edition -->
+<!-- Draft only. Copy into amanmuarya/amanmuarya/README.md after reviewing. -->
+
 <div align="center">
-  <h1>Hi there, I'm Aman Kushwaha 👋</h1>
-  <h3>Full-Stack Web Developer | Data Analytics Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:050505,100:1c1c1c&text=AMAN%20KUSHWAHA&fontColor=FFFFFF&fontSize=42&fontAlignY=39&desc=Building%20for%20the%20web.%20Learning%20from%20data.&descAlignY=63&descSize=14" alt="Aman Kushwaha — developer profile banner" />
 
-<p align="center">
-  Hailing from Varanasi and currently based in Meerut, I am a 3rd-year Computer Science Engineering undergraduate at Swami Vivekanand Subharti University. I bridge the gap between seamless web experiences and data-driven decision-making. Whether it's architecting a robust MERN stack application or extracting actionable insights from complex datasets, I love building solutions that create an impact.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3100&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Python+%7C+MERN+Stack+%7C+SQL" alt="Full Stack Developer | Data Analytics Enthusiast" />
+
+<p>
+  <a href="https://my-portfolio-aman-j5yl.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aman-kushwaha-2405b9417/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kushwahaaman57957@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/amanmuarya?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=amanmuarya&label=Profile%20views&color=242424&style=flat-square" alt="Profile views" />
 
-### 👨‍💻 A Little Bit About Me
-
-- 🎓 **Education:** Pursuing my B.Tech in Computer Science and Engineering (3rd Year).
-- 💻 **Web Development:** Experienced in building, optimizing, and deploying dynamic applications using the **MERN Stack** and **Vercel**.
-- 📊 **Data Analytics:** Proficient in extracting and visualizing data using **PostgreSQL, Power BI, and Microsoft Excel**.
-- 🌱 **Currently Learning:** Exploring **Advanced Python** and diving deeper into **Statistical Data Analysis**.
-- 🏆 **Beyond the Screen:** Active participant in tech communities and academic symposiums, most recently part of **Vigyanotsav 2025**.
-- ⚡ **Fun Fact:** I enjoy turning coffee into clean, reusable code and insightful dashboards!
-
----
-
-### 🚀 Featured Projects
-
-*A curated selection of my recent work. Click on the titles to explore the source code or view the live applications.*
-
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[E-Commerce Platform]((https://github.com/YOUR_GITHUB_USERNAME/REPO_LINK))** | A fully functional e-commerce website with user authentication, cart management, and payment gateway integration. | MongoDB, Express, React, Node.js | [Live Demo](https://your-vercel-link.vercel.app) |
-| **[Sales Data Dashboard]((https://github.com/YOUR_GITHUB_USERNAME/REPO_LINK))** | An interactive dashboard providing insights into sales trends, customer behavior, and regional revenue. | Power BI, Excel, PostgreSQL | N/A |
-| **[Personal Portfolio]((https://github.com/YOUR_GITHUB_USERNAME/REPO_LINK))** | A responsive personal portfolio designed to showcase my skills, projects, and professional journey. | HTML5, CSS3, JavaScript | [Live Demo](https://your-vercel-link.vercel.app) |
-
-*(Note: Replace the placeholder text above with your actual projects)*
-
----
-
-### 🛠️ Technical Arsenal
-
-**Frontend & Backend**<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data Science & Databases**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Tools & Deployment**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical" alt="Aman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical" alt="Aman's Top Languages" width="48%" />
 </div>
 
 ---
 
-### 📫 Let's Connect!
+## About me
 
-Open for collaborations, tech discussions, and new opportunities.
+I'm **Aman Kushwaha**, a **third-year B.Tech Computer Science & Engineering student at Subharti University, Meerut**. I'm interested in **full-stack web development** and **data analytics**—from building web interfaces and backend APIs to exploring datasets and communicating insights.
 
-<div align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+- **Building with:** Python, JavaScript, React, Node.js, Express.js, MongoDB and PostgreSQL.
+- **Currently learning:** Data analytics, including data exploration, visualization, Excel, SQL and Power BI.
+- **Also exploring:** Machine learning, NLP and problem-solving with DSA in Python.
+- **What motivates me:** Turning ideas into useful, working projects while improving one concept at a time.
+- **Explore my work:** [Portfolio](https://my-portfolio-aman-j5yl.vercel.app/) · [Repositories](https://github.com/amanmuarya?tab=repositories)
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Developer Command Center
+
+A developer-focused web application featured in my project collection.
+
+**[Live project ↗](https://developer-command-center-lemon.vercel.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### Spam Message & Email Detection
+
+An educational **Python + Streamlit** app that uses a trained classifier to check text for spam-like messages.
+
+**[Live demo ↗](https://spam-message-and-email-detection--ml-jiasjqhuabdylmxpkzv246.streamlit.app/)** · **[Source code](https://github.com/amanmuarya/Spam-Message-and-Email-Detection--ML)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### FlowApp · SaaS Landing Page
+
+An animated, responsive landing-page concept built with **HTML, Tailwind CSS and JavaScript**.
+
+**[Live demo ↗](https://task-25-drab.vercel.app/)** · **[Source code](https://github.com/amanmuarya/task-25)**
+
+</td>
+<td width="50%" valign="top">
+
+### Personal Portfolio
+
+My portfolio website showcasing development work, skills and projects, built with **JavaScript and Vite**.
+
+**[Visit portfolio ↗](https://my-portfolio-aman-j5yl.vercel.app/)** · **[Source code](https://github.com/amanmuarya/my_portfolio_aman)**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects and learning repositories</b></summary>
+
+- **[Toxic Comment Classification](https://github.com/amanmuarya/TOXIC-comment---ML)** — Educational NLP classification project with a Python/Streamlit interface.
+- **[DSA with Python](https://github.com/amanmuarya/DSA-with-PYTHON-)** — My data structures and algorithms practice.
+- **[PostgreSQL Practice](https://github.com/amanmuarya/PostgreSQL-Practice)** — SQL and database learning exercises.
+
+</details>
+
+## Tech stack
+
+**Languages & problem solving**  
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white) ![DSA](https://img.shields.io/badge/DSA%20with%20Python-171717?style=flat-square&logo=python&logoColor=white)
+
+**Frontend & backend**  
+![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-171717?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-171717?style=flat-square&logo=postman&logoColor=white)
+
+**Databases & data analytics**  
+![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-171717?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-171717?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-171717?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-171717?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-171717?style=flat-square&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-171717?style=flat-square&logo=powerbi&logoColor=white)
+
+**Machine learning & NLP**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-171717?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-171717?style=flat-square&logo=python&logoColor=white)
+
+**Tools & deployment**  
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-171717?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-171717?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-171717?style=flat-square&logo=googlecolab&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-171717?style=flat-square&logo=vercel&logoColor=white)
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanmuarya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=D1D5DB&icon_color=FFFFFF&rank_icon=github" alt="Aman's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanmuarya&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=D1D5DB" alt="Aman's most used GitHub repository languages" />
+</div>
+
+<!-- GitHub's contribution count changes over time, so this README intentionally does not hardcode a rolling 12-month total. -->
+
+## Certificate
+
+- **Tutedude** — [View certificate](https://upskill.tutedude.com/certificate/TD-AMAN-ME-2039)
+
+## Connect
+
+Interested in full-stack development, data projects or collaboration? You can find my work and reach me here:
+
+**[Portfolio](https://my-portfolio-aman-j5yl.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/aman-kushwaha-2405b9417/)** · **[Email](mailto:kushwahaaman57957@gmail.com)** · **[GitHub](https://github.com/amanmuarya)**
+
+<div align="center">
+
+---
+
+<sub>Build • Learn • Improve • Repeat</sub>
+
 </div>
