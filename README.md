@@ -22,7 +22,7 @@
 
 ## About me
 
-I'm **Aman Kushwaha**, a **third-year B.Tech Computer Science & Engineering student at Subharti University, Meerut**. I'm interested in **full-stack web development** and **data analytics**—from building web interfaces and backend APIs to exploring datasets and communicating insights.
+*Hello👋* I'm **Aman Kushwaha**, a **third-year B.Tech Computer Science & Engineering student at Subharti University, Meerut**. I'm interested in **full-stack web development** and **data analytics**—from building web interfaces and backend APIs to exploring datasets and communicating insights.
 
 - **Building with:** Python, JavaScript, React, Node.js, Express.js, MongoDB and PostgreSQL.
 - **Currently learning:** Data analytics, including data exploration, visualization, Excel, SQL and Power BI.
