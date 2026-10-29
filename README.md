@@ -72,7 +72,11 @@
 
 ### 📫 Let's Connect!
 
+<<<<<<< HEAD
 Open for collaborations, tech discussions, and new opportunities.
+=======
+*Hello👋* I'm **Aman Kushwaha**, a **third-year B.Tech Computer Science & Engineering student at Subharti University, Meerut**. I'm interested in **full-stack web development** and **data analytics**—from building web interfaces and backend APIs to exploring datasets and communicating insights.
+>>>>>>> eb290afc53d1e7be8fb78807baf841f7e4700a96
 
 <div align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
