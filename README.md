@@ -115,6 +115,8 @@ I enjoy working across the **MERN stack**, learning through hands-on projects, a
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanmuarya&layout=compact&hide_border=true&bg_color=0D1022&title_color=A78BFA&text_color=CBD5E1" alt="Top GitHub repository languages" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanmuarya&bg_color=0d1022&color=22d3ee&line=8b5cf6&point=22d3ee&area=true&area_color=4c1d95&hide_border=true" alt="Aman's GitHub contribution activity graph" />
 </div>
