@@ -117,11 +117,12 @@ I enjoy working across the **MERN stack**, learning through hands-on projects, a
     src="https://github-stats-extended.vercel.app/api?username=amanmuarya&show_icons=true&hide_border=true&bg_color=0D1022&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github"
     alt="GitHub Statistics"
     height="170"
+    wedith="auto"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=amanmuarya&layout=compact&hide_border=true&bg_color=0D1022&title_color=A78BFA&text_color=CBD5E1"
     alt="Top Programming Languages"
-    height="170"
+    height="auto"
   />
 </div>
 
