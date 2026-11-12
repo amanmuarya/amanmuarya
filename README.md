@@ -32,9 +32,9 @@ aman = {
 }
 ```
 
-  **Hello👋**  I'm a **third-year B.Tech Computer Science & Engineering student** at **Subharti institute of technology, Meerut**, focused on creating practical web applications and growing my skills in data analytics.
+  **Hello👋**  I'm Aman kushwaha a **third-year B.Tech Computer Science & Engineering student** at **Subharti institute of technology, Meerut**, focused on creating practical web applications and growing my skills in data analytics.
 
-I enjoy working across the **MERN stack**, learning through hands-on projects, and using Python and analytical tools to make sense of data. I'm also exploring machine learning, NLP, and data structures & algorithms with Python.
+I enjoy working across the **MERN stack**, learning through hands-on projects, and using Python and analytical tools to make sense of data. I'm also exploring Data analytics  and data structures & algorithms with Python.
 
 ### ✦ 02 / Selected work
 
